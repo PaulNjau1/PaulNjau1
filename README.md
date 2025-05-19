@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @PaulNjau1
-- 👀 I’m interested in Software Engineering, Automation and Control systems
-- 🌱 I’m currently learning Software Engineering 
 - 💞️ I’m looking to collaborate on Software Engineering 
 - 📫 How to reach me njaupaul@gmail.com
 
